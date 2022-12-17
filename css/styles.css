@@ -143,3 +143,9 @@ body, html {
         display: none;
     }
   }
+
+@media screen and (max-width: 960px) {
+    .heading {
+        font-size: 4rem;
+    }
+}
